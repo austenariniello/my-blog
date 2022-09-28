@@ -1,6 +1,6 @@
 {
-  "short_name": "Austen's Blog",
-  "name": "An example blog with features for upvoting and commenting ",
+  "short_name": "Austen's Website",
+  "name": "A personal website containing all my previous and current projects",
   "icons": [
     {
       "src": "favicon.ico",
